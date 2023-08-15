@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://github.com/kura-labs-org/kuralabs_deployment_1/blob/main/Kuralogo.png">
 </p>
-<h1 align="center">C4_deployment-1<h1> 
+<h1 align="center">C4_deployment-1.1<h1> 
 
 Demonstrate your ability to run a Jenkins build and manually deploy to Elastic Beanstalk.
 
@@ -11,7 +11,7 @@ Demonstrate your ability to run a Jenkins build and manually deploy to Elastic B
 
 - Be sure to follow the deployment instructions from this Repository  
 
-- Document your progress. Also, document any issues you may have ran into and what you did to fix them.
+- Document your issue and what you did to fix it in a .md file in your repository.
 
 - Lastly, save your documentation and diagram into your repository. Submit your repository link to the LMS
 
