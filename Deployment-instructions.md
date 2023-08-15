@@ -10,4 +10,5 @@
 5. **IF** the pipeline is successful, download the application files from your repository and proceed to the next step: https://scribehow.com/shared/How_to_Create_and_Deploy_a_Python_URL_Shortener_on_AWS_Elastic_Beanstalk__MS9pB8lfRaGFiKAq2FU-cw
 6. Once you deploy, your deployment to elastic beanstalk will fail or you will see a degraded health status
 7. Navigate to the elastic beanstalk log tab and request the last 100 logs. Download and view  the logs
-8. Use the internet or ChatGPT to assist you in discovering the issue. The issue is located in the /var/log/web.stdout.log section 
+8. Use the internet or ChatGPT to assist you in discovering the issue.
+9. HINT: The issue is located in the /var/log/web.stdout.log section 
