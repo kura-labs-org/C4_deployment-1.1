@@ -11,4 +11,4 @@
 6. Once you deploy, your deployment to elastic beanstalk will fail or you will see a degraded health status
 7. Navigate to the elastic beanstalk log tab and request the last 100 logs. Download and view  the logs
 8. Use the internet or ChatGPT to assist you in discovering the issue.
-9. HINT: The issue is located in the /var/log/web.stdout.log section 
+9. **HINT:** The issue is located in the /var/log/web.stdout.log section 
