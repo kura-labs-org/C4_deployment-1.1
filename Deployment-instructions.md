@@ -5,7 +5,7 @@
 ## Deployment Instructions:
 1. Log into the instructor's Jenkins server
 2. Create and run a Jenkins build for the application (Review Jenkins setup lesson video)
-3. Make sure you include your name and the number 1.1 in your build's name 
+3. Make sure you include your name and the number 1.1 in your build's name (first name_letter of last name_1.1)
 4. Observe the pipeline stages via the console output
 5. **IF** the pipeline is successful, download the application files from your repository and proceed to the next step: https://scribehow.com/shared/How_to_Create_and_Deploy_a_Python_URL_Shortener_on_AWS_Elastic_Beanstalk__MS9pB8lfRaGFiKAq2FU-cw
 6. Once you deploy, your deployment to elastic beanstalk will fail or you will see a degraded health status
